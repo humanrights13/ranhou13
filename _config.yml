@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Hou Ran / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hou Ran"
 description              : &description "personal description"
 url: "https://ranhou13.github.io"
 baseurl: ""
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Wuhan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ranh54139@whu.edu.cn" 
 
   # Academic websites
   academia         : # URL
