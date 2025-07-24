@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Omnihuman Research Program  "
+excerpt: "An upper limb rehabilitation system integrating VR headset,  pneumatic gloves and haptic feedback<br/><img src='/images/Om1.png'>"
 collection: portfolio
 ---
 
